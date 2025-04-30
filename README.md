@@ -1,1 +1,1 @@
-# SayCan from Google brain
+# SayCan from OpenAI
